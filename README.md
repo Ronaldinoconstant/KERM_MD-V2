@@ -1,4 +1,4 @@
-#        Ҝ乇尺爪 爪ᗪ ᐯ2
+#   c     Ҝ乇尺爪 爪ᗪ ᐯ2
 
    <a>
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+CAMEROUNAIS" alt="Typing SVG" /></a>   
